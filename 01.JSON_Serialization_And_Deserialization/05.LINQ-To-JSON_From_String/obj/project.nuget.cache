@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3g/K3pkOyEUz9wvXUbAbJjEZqYb9tA4TI+WdcCCAWH35x9Fz+2LdPsI1JTkCaEY+zenzvX105q/HFP8WCgHJg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.JSON_Serialization_And_Deserialization\\05.LINQ-To-JSON_From_String\\05.LINQ-To-JSON_From_String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC-User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

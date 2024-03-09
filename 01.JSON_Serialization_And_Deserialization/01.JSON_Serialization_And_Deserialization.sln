@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Anonymous_JSON_Type", "01.Anonymous_JSON_Type\01.Anonymous_JSON_Type.csproj", "{C43B8BFE-E39C-4D70-8642-EAC23FBC3EB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Anonymous_JSON_Type_From_File", "02.Anonymous_JSON_Type_From_File\02.Anonymous_JSON_Type_From_File.csproj", "{18E79732-8596-49A3-B4F9-F885478FA942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.JSON.NET_Attributes", "JSON.NET_Attributes\03.JSON.NET_Attributes.csproj", "{1EA331D6-F5F2-4614-ADB9-C8DBCEF3733A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.JSON_Parsing_Objects", "JSON_Parsing_Objects\04.JSON_Parsing_Objects.csproj", "{5BB5C344-A265-4945-968F-EE98D8009386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.LINQ-To-JSON_From_String", "05.LINQ-To-JSON_From_String\05.LINQ-To-JSON_From_String.csproj", "{E9D982A1-833B-4CE8-975F-6D24C0F31D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.LINQ-To-JSON-JObject", "LINQ-To-JSON-JObject\06.LINQ-To-JSON-JObject.csproj", "{7C68B35D-B4A5-455C-B57A-BE75EDBC6061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43B8BFE-E39C-4D70-8642-EAC23FBC3EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43B8BFE-E39C-4D70-8642-EAC23FBC3EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43B8BFE-E39C-4D70-8642-EAC23FBC3EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43B8BFE-E39C-4D70-8642-EAC23FBC3EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E79732-8596-49A3-B4F9-F885478FA942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E79732-8596-49A3-B4F9-F885478FA942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E79732-8596-49A3-B4F9-F885478FA942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E79732-8596-49A3-B4F9-F885478FA942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA331D6-F5F2-4614-ADB9-C8DBCEF3733A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA331D6-F5F2-4614-ADB9-C8DBCEF3733A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA331D6-F5F2-4614-ADB9-C8DBCEF3733A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA331D6-F5F2-4614-ADB9-C8DBCEF3733A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB5C344-A265-4945-968F-EE98D8009386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB5C344-A265-4945-968F-EE98D8009386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB5C344-A265-4945-968F-EE98D8009386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB5C344-A265-4945-968F-EE98D8009386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D982A1-833B-4CE8-975F-6D24C0F31D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D982A1-833B-4CE8-975F-6D24C0F31D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D982A1-833B-4CE8-975F-6D24C0F31D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D982A1-833B-4CE8-975F-6D24C0F31D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C68B35D-B4A5-455C-B57A-BE75EDBC6061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C68B35D-B4A5-455C-B57A-BE75EDBC6061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C68B35D-B4A5-455C-B57A-BE75EDBC6061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C68B35D-B4A5-455C-B57A-BE75EDBC6061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C37701A-FE01-401A-A858-A0EF0D6AA9AA}
+	EndGlobalSection
+EndGlobal

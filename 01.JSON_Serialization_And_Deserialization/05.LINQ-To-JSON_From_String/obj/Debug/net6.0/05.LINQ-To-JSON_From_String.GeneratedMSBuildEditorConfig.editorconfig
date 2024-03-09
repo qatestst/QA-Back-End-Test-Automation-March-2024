@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _05.LINQ_To_JSON_From_String
+build_property.ProjectDir = D:\SoftUni\7 Back-End Test Automation-March-2024\repo\01.JSON_Serialization_And_Deserialization\05.LINQ-To-JSON_From_String\
