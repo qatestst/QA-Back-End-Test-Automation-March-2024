@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\03.Deserialization_JSON_Response\\03.Deserialization_JSON_Response.csproj": {}
+    "D:\\QA-Back-End-Test-Automation-March-2024\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\03.Deserialization_JSON_Response\\03.Deserialization_JSON_Response.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\03.Deserialization_JSON_Response\\03.Deserialization_JSON_Response.csproj": {
+    "D:\\QA-Back-End-Test-Automation-March-2024\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\03.Deserialization_JSON_Response\\03.Deserialization_JSON_Response.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\03.Deserialization_JSON_Response\\03.Deserialization_JSON_Response.csproj",
+        "projectUniqueName": "D:\\QA-Back-End-Test-Automation-March-2024\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\03.Deserialization_JSON_Response\\03.Deserialization_JSON_Response.csproj",
         "projectName": "03.Deserialization_JSON_Response",
-        "projectPath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\03.Deserialization_JSON_Response\\03.Deserialization_JSON_Response.csproj",
+        "projectPath": "D:\\QA-Back-End-Test-Automation-March-2024\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\03.Deserialization_JSON_Response\\03.Deserialization_JSON_Response.csproj",
         "packagesPath": "C:\\Users\\PC-User\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\03.Deserialization_JSON_Response\\obj\\",
+        "outputPath": "D:\\QA-Back-End-Test-Automation-March-2024\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\03.Deserialization_JSON_Response\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

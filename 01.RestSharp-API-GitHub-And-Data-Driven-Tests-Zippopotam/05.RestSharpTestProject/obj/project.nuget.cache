@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qJOcjjQIJryU3tii3Vw+Wk9erVnOTWcjZRyjjzmms2COuWJdbocZ3PFfZ/sNnHUyuKcbWCXEvUvG1h3CuqaW+A==",
+  "dgSpecHash": "cefWuqP7KjnElL41dbdfna6On/P7x+qskDpQaJSaRbmq/4XPJSg7iFEaQ81bsCkRevFNhpiZHYJAgT6kxuYWqw==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\05.RestSharpTestProject\\05.RestSharpTestProject.csproj",
+  "projectFilePath": "D:\\QA-Back-End-Test-Automation-March-2024\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\05.RestSharpTestProject\\05.RestSharpTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC-User\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\PC-User\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

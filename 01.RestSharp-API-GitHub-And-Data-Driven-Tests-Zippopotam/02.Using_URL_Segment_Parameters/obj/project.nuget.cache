@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vIDX5miEtvIFnzS3d+7/HdEwv6E2Zu39kQCZZiUyNM121kwJW9YXyoPcv4G4BzjDnKx8Iadr2HMbwJYrksHRiw==",
+  "dgSpecHash": "qSB85KejBg58b4vPhuXqkYCXuZ8pIk4udHwzt39+me2ZroxVtIvETcoQTUlMb1QLyhD+6O0W4hs1XHZ4K1RSiQ==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\02.Using_URL_Segment_Parameters\\02.Using_URL_Segment_Parameters.csproj",
+  "projectFilePath": "D:\\QA-Back-End-Test-Automation-March-2024\\01.RestSharp-API-GitHub-And-Data-Driven-Tests-Zippopotam\\02.Using_URL_Segment_Parameters\\02.Using_URL_Segment_Parameters.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC-User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\PC-User\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
