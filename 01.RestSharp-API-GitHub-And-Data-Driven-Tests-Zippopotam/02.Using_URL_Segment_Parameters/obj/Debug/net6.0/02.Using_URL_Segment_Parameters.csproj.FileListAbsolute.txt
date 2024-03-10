@@ -1,0 +1,42 @@
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\02.Using_URL_Segment_Parameters.exe
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\02.Using_URL_Segment_Parameters.deps.json
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\02.Using_URL_Segment_Parameters.runtimeconfig.json
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\02.Using_URL_Segment_Parameters.dll
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\02.Using_URL_Segment_Parameters.pdb
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\RestSharp.dll
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.csproj.AssemblyReference.cache
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.AssemblyInfoInputs.cache
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.AssemblyInfo.cs
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.csproj.CopyComplete
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.dll
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\refint\02.Using_URL_Segment_Parameters.dll
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.pdb
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.genruntimeconfig.cache
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\ref\02.Using_URL_Segment_Parameters.dll
+C:\Users\PC-User\Downloads\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\02.Using_URL_Segment_Parameters.exe
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\02.Using_URL_Segment_Parameters.deps.json
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\02.Using_URL_Segment_Parameters.runtimeconfig.json
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\02.Using_URL_Segment_Parameters.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\02.Using_URL_Segment_Parameters.pdb
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\RestSharp.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\System.Text.Json.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.csproj.AssemblyReference.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.AssemblyInfoInputs.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.AssemblyInfo.cs
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.csproj.CoreCompileInputs.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.csproj.CopyComplete
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\refint\02.Using_URL_Segment_Parameters.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.pdb
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\02.Using_URL_Segment_Parameters.genruntimeconfig.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\02.Using_URL_Segment_Parameters\obj\Debug\net6.0\ref\02.Using_URL_Segment_Parameters.dll

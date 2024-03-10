@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s0lm4rAokyKT9KBgXSi1aJN5x2Wdf35nZX7rscYn5dCm1H74ljP5MhANO1+W0JeiuZDfOoD+HFMN2DMRed9NoA==",
+  "dgSpecHash": "Wp+gbMIPgZflRSdGxEANHy+u1j0Q6WvGH1a5YAnZ2E9Vs3Ud8lSXm2B0MeysL3hrshNak8HmGL0TJX3M4f6/wg==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\06.LINQ-To-JSON-JObject.csproj",
+  "projectFilePath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\QA-Back-End-Test-Automation-March-2024\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\06.LINQ-To-JSON-JObject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC-User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

@@ -1,0 +1,42 @@
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\04.RestSharp_HTTP_POST_request.exe
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\04.RestSharp_HTTP_POST_request.deps.json
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\04.RestSharp_HTTP_POST_request.runtimeconfig.json
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\04.RestSharp_HTTP_POST_request.dll
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\04.RestSharp_HTTP_POST_request.pdb
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\RestSharp.dll
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.csproj.AssemblyReference.cache
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.AssemblyInfoInputs.cache
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.AssemblyInfo.cs
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.csproj.CoreCompileInputs.cache
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.csproj.CopyComplete
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.dll
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\refint\04.RestSharp_HTTP_POST_request.dll
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.pdb
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.genruntimeconfig.cache
+C:\Users\PC-User\Downloads\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\ref\04.RestSharp_HTTP_POST_request.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\04.RestSharp_HTTP_POST_request.exe
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\04.RestSharp_HTTP_POST_request.deps.json
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\04.RestSharp_HTTP_POST_request.runtimeconfig.json
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\04.RestSharp_HTTP_POST_request.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\04.RestSharp_HTTP_POST_request.pdb
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\RestSharp.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\System.Text.Json.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.csproj.AssemblyReference.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.AssemblyInfoInputs.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.AssemblyInfo.cs
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.csproj.CoreCompileInputs.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.csproj.CopyComplete
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\refint\04.RestSharp_HTTP_POST_request.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.pdb
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\04.RestSharp_HTTP_POST_request.genruntimeconfig.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\04.RestSharp_HTTP_POST_request\obj\Debug\net6.0\ref\04.RestSharp_HTTP_POST_request.dll

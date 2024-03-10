@@ -1,0 +1,206 @@
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\testhost.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\testhost.exe
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\05.RestSharpTestProject.deps.json
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\05.RestSharpTestProject.runtimeconfig.json
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\05.RestSharpTestProject.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\05.RestSharpTestProject.pdb
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\RestSharp.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.csproj.AssemblyReference.cache
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.AssemblyInfoInputs.cache
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.AssemblyInfo.cs
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.csproj.CoreCompileInputs.cache
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.csproj.CopyComplete
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\refint\05.RestSharpTestProject.dll
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.pdb
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.genruntimeconfig.cache
+C:\Users\PC-User\Downloads\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\ref\05.RestSharpTestProject.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\testhost.exe
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\testhost.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\nunit.engine.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\nunit.engine.api.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\nunit.engine.core.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\05.RestSharpTestProject.deps.json
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\05.RestSharpTestProject.runtimeconfig.json
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\05.RestSharpTestProject.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\05.RestSharpTestProject.pdb
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\nunit.framework.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\RestSharp.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\System.Text.Json.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.csproj.AssemblyReference.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.AssemblyInfoInputs.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.AssemblyInfo.cs
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.csproj.CoreCompileInputs.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.csproj.CopyComplete
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\refint\05.RestSharpTestProject.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.pdb
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\05.RestSharpTestProject.genruntimeconfig.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\05.RestSharpTestProject\obj\Debug\net6.0\ref\05.RestSharpTestProject.dll

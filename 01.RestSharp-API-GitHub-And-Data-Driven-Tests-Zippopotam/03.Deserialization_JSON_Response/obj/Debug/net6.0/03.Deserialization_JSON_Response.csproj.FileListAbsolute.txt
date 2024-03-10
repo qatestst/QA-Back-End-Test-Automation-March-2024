@@ -1,0 +1,42 @@
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\03.Deserialization_JSON_Response.exe
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\03.Deserialization_JSON_Response.deps.json
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\03.Deserialization_JSON_Response.runtimeconfig.json
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\03.Deserialization_JSON_Response.dll
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\03.Deserialization_JSON_Response.pdb
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\RestSharp.dll
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.csproj.AssemblyReference.cache
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.AssemblyInfoInputs.cache
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.AssemblyInfo.cs
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.csproj.CoreCompileInputs.cache
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.csproj.CopyComplete
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.dll
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\refint\03.Deserialization_JSON_Response.dll
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.pdb
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.genruntimeconfig.cache
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\ref\03.Deserialization_JSON_Response.dll
+C:\Users\PC-User\Downloads\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\03.Deserialization_JSON_Response.exe
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\03.Deserialization_JSON_Response.deps.json
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\03.Deserialization_JSON_Response.runtimeconfig.json
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\03.Deserialization_JSON_Response.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\03.Deserialization_JSON_Response.pdb
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\RestSharp.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\System.Text.Json.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.csproj.AssemblyReference.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.AssemblyInfoInputs.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.AssemblyInfo.cs
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.csproj.CoreCompileInputs.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.csproj.CopyComplete
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\refint\03.Deserialization_JSON_Response.dll
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.pdb
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\03.Deserialization_JSON_Response.genruntimeconfig.cache
+D:\SoftUni\7 Back-End Test Automation-March-2024\repo\QA-Back-End-Test-Automation-March-2024\01.RestSharp-API-GitHub\RestSharp\03.Deserialization_JSON_Response\obj\Debug\net6.0\ref\03.Deserialization_JSON_Response.dll

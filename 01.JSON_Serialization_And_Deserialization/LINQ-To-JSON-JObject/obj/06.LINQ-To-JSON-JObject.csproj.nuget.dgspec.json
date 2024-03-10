@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\06.LINQ-To-JSON-JObject.csproj": {}
+    "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\QA-Back-End-Test-Automation-March-2024\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\06.LINQ-To-JSON-JObject.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\06.LINQ-To-JSON-JObject.csproj": {
+    "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\QA-Back-End-Test-Automation-March-2024\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\06.LINQ-To-JSON-JObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\06.LINQ-To-JSON-JObject.csproj",
+        "projectUniqueName": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\QA-Back-End-Test-Automation-March-2024\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\06.LINQ-To-JSON-JObject.csproj",
         "projectName": "06.LINQ-To-JSON-JObject",
-        "projectPath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\06.LINQ-To-JSON-JObject.csproj",
+        "projectPath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\QA-Back-End-Test-Automation-March-2024\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\06.LINQ-To-JSON-JObject.csproj",
         "packagesPath": "C:\\Users\\PC-User\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\obj\\",
+        "outputPath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\QA-Back-End-Test-Automation-March-2024\\01.JSON_Serialization_And_Deserialization\\LINQ-To-JSON-JObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

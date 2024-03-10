@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RestSharpServices
+build_property.ProjectDir = D:\SoftUni\7 Back-End Test Automation-March-2024\repo\03.Exercise-Api-Testing-CSharp-RestSharp\RestSharpServices\

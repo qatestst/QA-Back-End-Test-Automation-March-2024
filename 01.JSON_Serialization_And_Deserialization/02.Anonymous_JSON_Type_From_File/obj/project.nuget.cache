@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PdU/61eL+GQM7pg+5FySf2D1AguZZk7Ebqcea157MkttixWvI1EJAGZIwJCxHBRfHSyLpiREg2Lt9CwwMxNGGg==",
+  "dgSpecHash": "EilJJYTZ6UNNvuT4CmlxqkW66H1GHwXFxkXD0xlCjS478xe/LqodIkKLxEfLSj/cPk4/5kC35zt2aUy++K72/g==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\01.JSON_Serialization_And_Deserialization\\02.Anonymous_JSON_Type_From_File\\02.Anonymous_JSON_Type_From_File.csproj",
+  "projectFilePath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\QA-Back-End-Test-Automation-March-2024\\01.JSON_Serialization_And_Deserialization\\02.Anonymous_JSON_Type_From_File\\02.Anonymous_JSON_Type_From_File.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC-User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

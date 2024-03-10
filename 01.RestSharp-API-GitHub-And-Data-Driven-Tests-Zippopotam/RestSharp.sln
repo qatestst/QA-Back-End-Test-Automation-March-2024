@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RestSharp_HTTP_GET_request", "01.RestSharp_HTTP_GET_request\01.RestSharp_HTTP_GET_request.csproj", "{FBEA2101-5AB6-4FF0-8CDE-DD4E3153215E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Using_URL_Segment_Parameters", "02.Using_URL_Segment_Parameters\02.Using_URL_Segment_Parameters.csproj", "{760219A5-5A51-4648-91D7-940B2468B3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Deserialization_JSON_Response", "03.Deserialization_JSON_Response\03.Deserialization_JSON_Response.csproj", "{ACC1AF8C-6AA0-4C34-A4D7-CF9E37D79CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RestSharp_HTTP_POST_request", "04.RestSharp_HTTP_POST_request\04.RestSharp_HTTP_POST_request.csproj", "{AD6CDB85-FF51-4C43-BF24-ED238EEDC6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RestSharpTestProject", "05.RestSharpTestProject\05.RestSharpTestProject.csproj", "{2C697702-C496-4C2F-97C1-B5D41D0E43BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Data-Driven-NUnit-Tests-Zippopotam.us-API", "06.Data-Driven-NUnit-Tests-Zippopotam.us-API\06.Data-Driven-NUnit-Tests-Zippopotam.us-API.csproj", "{0782E964-3461-4B6D-9919-864BFE72E0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBEA2101-5AB6-4FF0-8CDE-DD4E3153215E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEA2101-5AB6-4FF0-8CDE-DD4E3153215E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEA2101-5AB6-4FF0-8CDE-DD4E3153215E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEA2101-5AB6-4FF0-8CDE-DD4E3153215E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760219A5-5A51-4648-91D7-940B2468B3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760219A5-5A51-4648-91D7-940B2468B3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760219A5-5A51-4648-91D7-940B2468B3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760219A5-5A51-4648-91D7-940B2468B3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC1AF8C-6AA0-4C34-A4D7-CF9E37D79CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC1AF8C-6AA0-4C34-A4D7-CF9E37D79CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC1AF8C-6AA0-4C34-A4D7-CF9E37D79CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC1AF8C-6AA0-4C34-A4D7-CF9E37D79CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6CDB85-FF51-4C43-BF24-ED238EEDC6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6CDB85-FF51-4C43-BF24-ED238EEDC6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6CDB85-FF51-4C43-BF24-ED238EEDC6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6CDB85-FF51-4C43-BF24-ED238EEDC6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C697702-C496-4C2F-97C1-B5D41D0E43BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C697702-C496-4C2F-97C1-B5D41D0E43BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C697702-C496-4C2F-97C1-B5D41D0E43BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C697702-C496-4C2F-97C1-B5D41D0E43BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0782E964-3461-4B6D-9919-864BFE72E0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0782E964-3461-4B6D-9919-864BFE72E0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0782E964-3461-4B6D-9919-864BFE72E0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0782E964-3461-4B6D-9919-864BFE72E0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284C986C-67F8-401E-A7B9-29061DC952B6}
+	EndGlobalSection
+EndGlobal
