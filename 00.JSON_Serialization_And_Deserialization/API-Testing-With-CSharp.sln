@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Weather_Forecast_JSON_Serializer", "01.Weather_Forecast\01.Weather_Forecast_JSON_Serializer.csproj", "{4BBE4823-8B2F-49D8-B679-AA8DE810B847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Weather_Forecast_JSON_Deserializer", "02.Weather_Forecast_JSON_Deserializer\02.Weather_Forecast_JSON_Deserializer.csproj", "{C229949B-6136-4A1C-A0E4-38CA7F82B14D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Weather_Forecast_JSON.NET_Serializer", "03.Weather_Forecast_JSON.NET\03.Weather_Forecast_JSON.NET_Serializer.csproj", "{EC871FEF-0224-44EB-8D07-919D448E275E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.JSON_Deserialization_To_Anonymous_Types", "04.JSON_Deserialization_To_Anonymous_Types\04.JSON_Deserialization_To_Anonymous_Types.csproj", "{FA04DD50-6894-4CC4-93F4-DB3FBC003E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BBE4823-8B2F-49D8-B679-AA8DE810B847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBE4823-8B2F-49D8-B679-AA8DE810B847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBE4823-8B2F-49D8-B679-AA8DE810B847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBE4823-8B2F-49D8-B679-AA8DE810B847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C229949B-6136-4A1C-A0E4-38CA7F82B14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C229949B-6136-4A1C-A0E4-38CA7F82B14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C229949B-6136-4A1C-A0E4-38CA7F82B14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C229949B-6136-4A1C-A0E4-38CA7F82B14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC871FEF-0224-44EB-8D07-919D448E275E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC871FEF-0224-44EB-8D07-919D448E275E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC871FEF-0224-44EB-8D07-919D448E275E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC871FEF-0224-44EB-8D07-919D448E275E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA04DD50-6894-4CC4-93F4-DB3FBC003E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA04DD50-6894-4CC4-93F4-DB3FBC003E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA04DD50-6894-4CC4-93F4-DB3FBC003E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA04DD50-6894-4CC4-93F4-DB3FBC003E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3543710D-1B60-4E47-ACBE-D376801D04E0}
+	EndGlobalSection
+EndGlobal

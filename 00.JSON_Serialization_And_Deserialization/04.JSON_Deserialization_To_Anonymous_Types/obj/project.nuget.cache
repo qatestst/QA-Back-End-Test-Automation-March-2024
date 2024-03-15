@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZN+WDgQevEXba4SBxZXtlgr8hFny5eABUQgf4dqyKfXxRGT5xWXiucMHjiIQmXp5bbkTJwXXaSs0ifBikfwjHQ==",
+  "success": true,
+  "projectFilePath": "D:\\SUQAP\\QA-Back-End Test Automation - март 2024\\to add to repos\\03.API-Testing-With-CSharp\\04.JSON_Deserialization_To_Anonymous_Types\\04.JSON_Deserialization_To_Anonymous_Types.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\8.0.2\\system.text.json.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

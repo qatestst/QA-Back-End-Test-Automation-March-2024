@@ -1271,24 +1271,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC-User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\03.Exercise-Api-Testing-CSharp-RestSharp\\TestGitHubApi\\TestGitHubApi.csproj",
+      "projectUniqueName": "D:\\QA-Back-End-Test-Automation-March-2024\\03.Exercise-Api-Testing-CSharp-RestSharp\\TestGitHubApi\\TestGitHubApi.csproj",
       "projectName": "TestGitHubApi",
-      "projectPath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\03.Exercise-Api-Testing-CSharp-RestSharp\\TestGitHubApi\\TestGitHubApi.csproj",
-      "packagesPath": "C:\\Users\\PC-User\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\03.Exercise-Api-Testing-CSharp-RestSharp\\TestGitHubApi\\obj\\",
+      "projectPath": "D:\\QA-Back-End-Test-Automation-March-2024\\03.Exercise-Api-Testing-CSharp-RestSharp\\TestGitHubApi\\TestGitHubApi.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\QA-Back-End-Test-Automation-March-2024\\03.Exercise-Api-Testing-CSharp-RestSharp\\TestGitHubApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\PC-User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1302,8 +1297,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\03.Exercise-Api-Testing-CSharp-RestSharp\\RestSharpServices\\RestSharpServices.csproj": {
-              "projectPath": "D:\\SoftUni\\7 Back-End Test Automation-March-2024\\repo\\03.Exercise-Api-Testing-CSharp-RestSharp\\RestSharpServices\\RestSharpServices.csproj"
+            "D:\\QA-Back-End-Test-Automation-March-2024\\03.Exercise-Api-Testing-CSharp-RestSharp\\RestSharpServices\\RestSharpServices.csproj": {
+              "projectPath": "D:\\QA-Back-End-Test-Automation-March-2024\\03.Exercise-Api-Testing-CSharp-RestSharp\\RestSharpServices\\RestSharpServices.csproj"
             }
           }
         }
@@ -1363,7 +1358,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

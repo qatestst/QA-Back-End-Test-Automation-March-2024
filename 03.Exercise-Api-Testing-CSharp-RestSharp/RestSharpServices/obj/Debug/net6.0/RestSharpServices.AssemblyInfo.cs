@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestSharpServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+624fa456d2bb780fd497fe09eb7410b68077a8d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestSharpServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestSharpServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

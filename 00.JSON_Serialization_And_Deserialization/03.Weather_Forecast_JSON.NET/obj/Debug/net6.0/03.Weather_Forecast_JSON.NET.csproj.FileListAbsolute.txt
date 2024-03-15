@@ -1,0 +1,17 @@
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\bin\Debug\net6.0\03.Weather_Forecast_JSON.NET.exe
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\bin\Debug\net6.0\03.Weather_Forecast_JSON.NET.deps.json
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\bin\Debug\net6.0\03.Weather_Forecast_JSON.NET.runtimeconfig.json
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\bin\Debug\net6.0\03.Weather_Forecast_JSON.NET.dll
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\bin\Debug\net6.0\03.Weather_Forecast_JSON.NET.pdb
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\03.Weather_Forecast_JSON.NET.csproj.AssemblyReference.cache
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\03.Weather_Forecast_JSON.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\03.Weather_Forecast_JSON.NET.AssemblyInfoInputs.cache
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\03.Weather_Forecast_JSON.NET.AssemblyInfo.cs
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\03.Weather_Forecast_JSON.NET.csproj.CoreCompileInputs.cache
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\03.Weather_Forecast_JSON.NET.csproj.CopyComplete
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\03.Weather_Forecast_JSON.NET.dll
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\refint\03.Weather_Forecast_JSON.NET.dll
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\03.Weather_Forecast_JSON.NET.pdb
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\03.Weather_Forecast_JSON.NET.genruntimeconfig.cache
+D:\SUQAP\QA-Back-End Test Automation - март 2024\repos\API-Testing-With-CSharp\03.Weather_Forecast_JSON.NET\obj\Debug\net6.0\ref\03.Weather_Forecast_JSON.NET.dll

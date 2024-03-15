@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBqsYvhXrGROQ2aJKHmRGNKhdtc6pQxa9ZIZyazy2r/PF2fwLolSki32dFW3SlpgCXClkWI4xPGNRLiXehuTjw==",
+  "success": true,
+  "projectFilePath": "D:\\SUQAP\\QA-Back-End Test Automation - март 2024\\to add to repos\\03.API-Testing-With-CSharp\\02.Weather_Forecast_JSON_Deserializer\\02.Weather_Forecast_JSON_Deserializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\8.0.2\\system.text.json.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
