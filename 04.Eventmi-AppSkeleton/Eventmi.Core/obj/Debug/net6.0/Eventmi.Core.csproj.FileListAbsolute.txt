@@ -1,0 +1,16 @@
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.deps.json
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.dll
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.pdb
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\bin\Debug\net6.0\Eventmi.Infrastructure.dll
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\bin\Debug\net6.0\Eventmi.Infrastructure.pdb
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.AssemblyReference.cache
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.AssemblyInfoInputs.cache
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.AssemblyInfo.cs
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.CoreCompileInputs.cache
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.sourcelink.json
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi..108DBD70.Up2Date
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.dll
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\refint\Eventmi.Core.dll
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.pdb
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\ref\Eventmi.Core.dll

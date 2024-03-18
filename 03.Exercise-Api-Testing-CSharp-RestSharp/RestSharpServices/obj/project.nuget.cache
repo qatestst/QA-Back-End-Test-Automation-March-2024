@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BvTKp6mAfdgRH8Y5pCDkd+S5kXKiNHQ8Nfut9dRO0gdJg1+UQcR8pEpnLMMrrgAdYdYPVayiDbHg5rJECKpI9w==",
+  "dgSpecHash": "f0MjCHVggILAx/QeK82GxOF2kkQTeI16whrnddXV2y82GcdEojwNwqFHDpOUZdD2NYAHr1jXJ6eSRUATPxei9w==",
   "success": true,
   "projectFilePath": "D:\\QA-Back-End-Test-Automation-March-2024\\03.Exercise-Api-Testing-CSharp-RestSharp\\RestSharpServices\\RestSharpServices.csproj",
   "expectedPackageFiles": [

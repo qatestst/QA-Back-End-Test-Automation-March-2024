@@ -1,0 +1,15 @@
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.deps.json
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.runtimeconfig.json
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.dll
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.pdb
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.csproj.AssemblyReference.cache
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.AssemblyInfoInputs.cache
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.AssemblyInfo.cs
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.sourcelink.json
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.dll
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\refint\Eventmi.Infrastructure.dll
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.pdb
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.genruntimeconfig.cache
+D:\QA-Back-End-Test-Automation-March-2024\04.Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\ref\Eventmi.Infrastructure.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2TLY5thw2wJCqIPhCOjIYgBW8k7MgzDFDlNTz/Y/hG1p1nhBaxtcM6blxMJ+W/PfLi9lLp2m+KEyjSZQaQHBHQ==",
+  "dgSpecHash": "agWDRr0zNN905ziujnl8zje41bkPWYMfa/SR/SGND6QhrwuBm0FyGYXhGdhThn6L3Y+enNALDA7W7cFBVnzhtQ==",
   "success": true,
   "projectFilePath": "D:\\QA-Back-End-Test-Automation-March-2024\\03.Exercise-Api-Testing-CSharp-RestSharp\\TestGitHubApi\\TestGitHubApi.csproj",
   "expectedPackageFiles": [

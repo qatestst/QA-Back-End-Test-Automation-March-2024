@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA-Back-End-Test-Automation-March-2024\\04.Eventmi-AppSkeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9751314-2D25-4E77-9807-9104FDDF610C}|Eventmi.Tests\\Eventmi.Tests.csproj|d:\\qa-back-end-test-automation-march-2024\\04.eventmi-appskeleton\\eventmi.tests\\eventcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9751314-2D25-4E77-9807-9104FDDF610C}|Eventmi.Tests\\Eventmi.Tests.csproj|solutionrelative:eventmi.tests\\eventcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D6F83E-B771-4C4D-8407-DC52399C5FE9}|Eventmi\\Eventmi.csproj|d:\\qa-back-end-test-automation-march-2024\\04.eventmi-appskeleton\\eventmi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43D6F83E-B771-4C4D-8407-DC52399C5FE9}|Eventmi\\Eventmi.csproj|solutionrelative:eventmi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D6F83E-B771-4C4D-8407-DC52399C5FE9}|Eventmi\\Eventmi.csproj|d:\\qa-back-end-test-automation-march-2024\\04.eventmi-appskeleton\\eventmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D6F83E-B771-4C4D-8407-DC52399C5FE9}|Eventmi\\Eventmi.csproj|solutionrelative:eventmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QA-Back-End-Test-Automation-March-2024\\04.Eventmi-AppSkeleton\\Eventmi\\Program.cs",
+              "RelativeDocumentMoniker": "Eventmi\\Program.cs",
+              "ToolTip": "D:\\QA-Back-End-Test-Automation-March-2024\\04.Eventmi-AppSkeleton\\Eventmi\\Program.cs",
+              "RelativeToolTip": "Eventmi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:54:45.918Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\QA-Back-End-Test-Automation-March-2024\\04.Eventmi-AppSkeleton\\Eventmi\\appsettings.json",
+              "RelativeDocumentMoniker": "Eventmi\\appsettings.json",
+              "ToolTip": "D:\\QA-Back-End-Test-Automation-March-2024\\04.Eventmi-AppSkeleton\\Eventmi\\appsettings.json",
+              "RelativeToolTip": "Eventmi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T09:20:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventControllerTests.cs",
+              "DocumentMoniker": "D:\\QA-Back-End-Test-Automation-March-2024\\04.Eventmi-AppSkeleton\\Eventmi.Tests\\EventControllerTests.cs",
+              "RelativeDocumentMoniker": "Eventmi.Tests\\EventControllerTests.cs",
+              "ToolTip": "D:\\QA-Back-End-Test-Automation-March-2024\\04.Eventmi-AppSkeleton\\Eventmi.Tests\\EventControllerTests.cs",
+              "RelativeToolTip": "Eventmi.Tests\\EventControllerTests.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAA5wCcBAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:34:06.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
