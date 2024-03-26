@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9FSEXWpTt8BEEIIo9DpsPp/kArsxEHGrGl22AapNXrMjqLzSvqDvG9z6dnT23QCwya27mH9pglDgAwoyJm61Iw==",
+  "success": true,
+  "projectFilePath": "D:\\QA-Back-End-Test-Automation-March-2024\\09.CodeAnalyzerDemo\\CodeAnalyzerDemo\\CodeAnalyzerDemo\\CodeAnalyzerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC-User\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

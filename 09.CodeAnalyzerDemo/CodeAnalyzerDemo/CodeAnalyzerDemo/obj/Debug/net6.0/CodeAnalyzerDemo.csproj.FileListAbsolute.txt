@@ -1,0 +1,14 @@
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\bin\Debug\net6.0\CodeAnalyzerDemo.exe
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\bin\Debug\net6.0\CodeAnalyzerDemo.deps.json
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\bin\Debug\net6.0\CodeAnalyzerDemo.runtimeconfig.json
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\bin\Debug\net6.0\CodeAnalyzerDemo.dll
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\bin\Debug\net6.0\CodeAnalyzerDemo.pdb
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\obj\Debug\net6.0\CodeAnalyzerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\obj\Debug\net6.0\CodeAnalyzerDemo.AssemblyInfoInputs.cache
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\obj\Debug\net6.0\CodeAnalyzerDemo.AssemblyInfo.cs
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\obj\Debug\net6.0\CodeAnalyzerDemo.csproj.CoreCompileInputs.cache
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\obj\Debug\net6.0\CodeAnalyzerDemo.dll
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\obj\Debug\net6.0\refint\CodeAnalyzerDemo.dll
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\obj\Debug\net6.0\CodeAnalyzerDemo.pdb
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\obj\Debug\net6.0\CodeAnalyzerDemo.genruntimeconfig.cache
+D:\QA-Back-End-Test-Automation-March-2024\09.CodeAnalyzerDemo\CodeAnalyzerDemo\CodeAnalyzerDemo\obj\Debug\net6.0\ref\CodeAnalyzerDemo.dll
