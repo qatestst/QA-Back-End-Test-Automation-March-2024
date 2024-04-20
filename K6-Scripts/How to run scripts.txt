@@ -1,0 +1,4 @@
+Open Terminal in VSCode
+In CLI enter the following command:
+
+C:\> k6 run .\soak_test.js 

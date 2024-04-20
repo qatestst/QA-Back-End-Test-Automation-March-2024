@@ -1,0 +1,10 @@
+Enter in CLI:
+
+  C:\> npm install -g newman
+  C:\> npm install -g newman-reporter-htmlextra
+
+To RUN the newman html extra type in CLI:
+
+  C:\> newman run Exam-Preparation-12.04.2024.postman_collection.json -r htmlextra
+
+The command generates hrml report
